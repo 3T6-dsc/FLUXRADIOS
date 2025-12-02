@@ -6,7 +6,7 @@
 
 | Nom         | Flux                                       
 |-------------|--------------------------------------------
-| NRJ France  | https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3?
+| NRJ France  | https://streaming.nrjaudio.fm/oumvmk8fnozc?
 
 ---
 
